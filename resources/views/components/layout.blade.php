@@ -14,6 +14,6 @@
         
     </head>
    <body class="antialiased">
-    
+    {{$slot}}
    </body>
 </html>
